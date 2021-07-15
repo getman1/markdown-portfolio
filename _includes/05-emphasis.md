@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__git__
+also I know **gitlab**
+and among them **git can be _true_ and *false*. WHo knows**
+That's it folks 🔚
